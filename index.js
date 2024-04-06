@@ -7,8 +7,8 @@ function appenedtoDisplay(input){
 
 }
 
-function clear(){
-    display.value="";
+function clearDis(){
+    display.value=" ";
 
 }
 
